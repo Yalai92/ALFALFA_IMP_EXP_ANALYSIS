@@ -1,9 +1,5 @@
-* The first part involves data cleaning, analysis, and visualization of global alfalfa and pellet imports, along with the evolution and trends of Spanish and the four main alfalfa and pellet exporters during the 2003-2023 period. All the data of this project will be allocated in the **DA** folder.
-  
-* The second part applies data science algorithms to perform a predictive analysis of global alfalfa demand for the 2024-2029 period, identifying key trends and factors influencing the market, with the goal of providing valuable insights for stakeholders in the alfalfa industry. All the data of this project will be allocated in the **DS** folder.
-
-# Alfalfa sector: Spanish & global
-This repository focuses on both the analysis and forecasting of the global alfalfa and pellet trade.
+# Data Analysis & Predictive Modeling of Spanish & Global Alfalfa International Trade (2003-2029)
+This repository focuses on both the analysis and forecasting of the global alfalfa and pellet trade. The first part involves data cleaning, analysis, and visualization of global alfalfa and pellet imports, along with the evolution and trends of Spanish and the four main alfalfa and pellet exporters during the 2003-2023 period. The second part applies data science algorithms to perform a predictive analysis of global alfalfa demand for the 2024-2029 period, identifying key trends and factors influencing the market, with the goal of providing valuable insights for stakeholders in the alfalfa industry.
 
 ## Projects
 
@@ -13,7 +9,9 @@ This repository focuses on both the analysis and forecasting of the global alfal
   - Folder: **DA**
   - URL: [Portfolio article](https://aleixsanchez.super.site/featured-projects/the-spanish-alfalfa-sector-export-analysis)
 
-* 🔬 | **Data Science** - *(currently under development)*
+* 🛠️ | 02. **Preprocessing**  - *(currently under development)*
+
+* 🔬 | 03. **Data Science** - *(currently under development)*
   - Title: **Predictive Analysis and Trends in Global Alfalfa Demand (2024-2029)**
   - Description: Predictive analysis of the global alfalfa demand for the 2024-2029 period, using data science algorithms techniques,. It analyzes main trends and key factors influencing the market, willing to provide valuable insights for stakeholders in the alfalfa industry.
   - Folder: **DS**
