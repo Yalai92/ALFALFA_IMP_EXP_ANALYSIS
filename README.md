@@ -1,5 +1,5 @@
 # Data Analysis & Predictive Modeling of Spanish & Global Alfalfa International Trade (2003-2029)
-This repository focuses on both the analysis and forecasting of the global alfalfa and pellet trade. The first part involves data cleaning, analysis, and visualization of global alfalfa and pellet imports, along with the evolution and trends of Spanish and the four main alfalfa and pellet exporters during the 2003-2023 period. The second part applies data science algorithms to perform a predictive analysis of global alfalfa demand for the 2024-2029 period, identifying key trends and factors influencing the market, with the goal of providing valuable insights for stakeholders in the alfalfa industry.
+This repository focuses on both the analysis and clustering of the global sparkling wine trade. The first part involves data cleaning, analysis, and visualization of global cava, prosecco and champagne exports, along with the evolution and trends during the 2017-2024 period, on a monthly base. The second part applies socio-economic variables to the yearly exports data, in order to get insights outside the pure trade that helps to find key trends and correlation factors that can influence the market and the sparkling wines compsuption. Finally, with the application of preprocessing and data science algorithms it has been performed a clustering analysis on a country level to help to classify the countries according to their market behaviour., with the goal of providing valuable insights for stakeholders in the cava industry.
 
 ## Projects
 
@@ -19,6 +19,6 @@ This repository focuses on both the analysis and forecasting of the global alfal
 
 
 ## Tools
-* 📓 | Notebooks:     **Google Collab**
-* 📊 | Visualization: **PowerBI & Tableau Public**
+* 📓 | Notebooks:     **Google Colab**
+* 📊 | Visualization: **Tableau Public**
 * 🐍 | Python:        **Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn**
